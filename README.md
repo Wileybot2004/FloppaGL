@@ -8,3 +8,4 @@ PyOpenGL
 numpy
 ctypes
 intall python then use pip to install the modules needed then run pt3.py
+OR download the built version created with pyinstaller, extract the files then run pt3.exe
